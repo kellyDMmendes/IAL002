@@ -1,0 +1,13 @@
+Sequência de Fibonacci
+A seguir temos o 10 elementos maiores que 12000
+
+17711
+28657
+46368
+75025
+121393
+196418
+317811
+514229
+832040
+1346269
